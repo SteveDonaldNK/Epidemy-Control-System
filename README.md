@@ -1,0 +1,1 @@
+# Epidemy control system
